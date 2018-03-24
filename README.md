@@ -1,1 +1,2 @@
 # mysql_python_DB
+基于mysql和python的学生选课系统
